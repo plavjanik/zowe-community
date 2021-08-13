@@ -2,7 +2,7 @@
 
 This document outlines what levels of maturity are to be found within the Zowe project and the ways to transition between the different stages within the lifecycle.
 
-# Squads
+## Squads
 
 - **Proposal** - Idea presented to the TSC and ZAC based on the process outlined in [Proposal Process](#Proposal Acceptance Process)
 - **Incubator** - Squad accepted to the incubator stage. The squad is provisionally part of the Zowe project but doesn't have voting rights including the committers of the squad  
@@ -63,3 +63,9 @@ Squads only can enter the Emeritus Stage by either:
 When in the Emeritus Stage, the squad's code repository administration is transferred to a designated individual by the Zowe. No new features or bug fixes will be addressed, unless it is deemed a security issue. Open Mainframe Project and Zowe will hold all assets in perpetuity.
 
 A squad can move back to Active Stage following the guidelines for a project being accepted at the Active Stage above.
+
+## Components
+
+What are the actual differencies?
+
+- **Technical Preview**
